@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://172.16.6.168:8080/bmwapp/MyBMW.ipa</string>
+                    <string>http://172.16.6.168:8080/MyBMW.ipa</string>
                 </dict>
                 <dict>
                     <key>kind</key>
